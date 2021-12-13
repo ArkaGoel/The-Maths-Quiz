@@ -1,0 +1,38 @@
+body{
+    background: url(https://wallpaperaccess.com/full/895528.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.login_div1, .login_div2{
+    background: rgb(5, 5, 5);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+#player1_name , #player2_name{
+    display: inline-block;
+    margin-left: 20px;
+}
+#word{
+    width: 60%;
+}
+#word_display{
+    letter-spacing: 5px;
+}
+h1{
+    background: black;
+}
+h3 , label{
+    color: white;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+button{
+    border-radius: 30px;
+}

@@ -36,3 +36,12 @@ h3 , label{
 button{
     border-radius: 30px;
 }
+#player_1{
+    color: white;
+}
+#body_style{
+    background: aqua;
+}
+#math_quizhead{
+    background: none;
+}
